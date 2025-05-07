@@ -38,18 +38,6 @@ define({ entries : {
         "volume": "abs/2201.13052",
         "year": "2022"
     },
-    "19605cad33f79d3070b7c4b24aa49653ab7c90da": {
-        "abstract": "",
-        "arxivid": "1904.12058",
-        "author": "Muhan Zhang and Yixin Chen",
-        "journal": "arXiv: Information Retrieval",
-        "pages": "null",
-        "title": "Inductive Matrix Completion Based on Graph Neural Networks",
-        "type": "article",
-        "url": "https://www.semanticscholar.org/paper/19605cad33f79d3070b7c4b24aa49653ab7c90da",
-        "volume": "",
-        "year": "2019"
-    },
     "1baee4ae5e5eaf75e322b53afa3cbdea89dcc2d0": {
         "abstract": "",
         "author": "F. Nie and Heng Huang and Xiao Cai and C. Ding",
@@ -70,17 +58,53 @@ define({ entries : {
         "volume": "abs/1804.10653",
         "year": "2018"
     },
-    "365f670b751fbc933f658bc0b3acfea87502d0e2": {
+    "72a17a21d659de691e3ba71e16a9e03a519016cf": {
         "abstract": "",
-        "arxivid": "1803.01233",
-        "author": "Xiao Zhang and S. Du and Quanquan Gu",
-        "journal": "ArXiv",
+        "author": "Jayun Yong and Chulyun Kim",
+        "doi": "10.4018/ijdwm.345361",
+        "journal": "International Journal of Data Warehousing and Mining",
         "pages": "null",
-        "title": "Fast and Sample Efficient Inductive Matrix Completion via Multi-Phase Procrustes Flow",
+        "title": "Hybrid Inductive Graph Method for Matrix Completion",
         "type": "article",
-        "url": "https://www.semanticscholar.org/paper/365f670b751fbc933f658bc0b3acfea87502d0e2",
-        "volume": "abs/1803.01233",
-        "year": "2018"
+        "url": "https://www.semanticscholar.org/paper/72a17a21d659de691e3ba71e16a9e03a519016cf",
+        "volume": "null",
+        "year": "2024"
+    },
+    "a1d9fbca470350c6859058eb479529e70732a5c0": {
+        "abstract": "",
+        "author": "YaWei Wang and Zhixiang Yin",
+        "doi": "10.1038/s41598-024-78212-w",
+        "journal": "Scientific Reports",
+        "pages": "null",
+        "pmid": "39528650",
+        "title": "Prediction of miRNA-disease association based on multisource inductive matrix completion",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a1d9fbca470350c6859058eb479529e70732a5c0",
+        "volume": "14",
+        "year": "2024"
+    },
+    "e42259cf0ba53f6c072cadf52d471e943e021387": {
+        "abstract": "",
+        "arxivid": "2212.08339",
+        "author": "Antoine Ledent and Rodrigo Alves and Yunwen Lei and Y. Guermeur and M. Kloft",
+        "doi": "10.48550/arXiv.2212.08339",
+        "title": "Generalization Bounds for Inductive Matrix Completion in Low-noise Settings",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/e42259cf0ba53f6c072cadf52d471e943e021387",
+        "year": "2022"
+    },
+    "e4e9749a692392d203834517647f682cbd3a42f6": {
+        "abstract": "",
+        "author": "Yongna Yuan and Rizhen Hu and Siming Chen and Xiaopeng Zhang and Zhenyu Liu and Gonghai Zhou",
+        "doi": "10.1016/j.compbiomed.2024.108612",
+        "journal": "Computers in biology and medicine",
+        "pages": " 108612 ,",
+        "pmid": "38838556",
+        "title": "CKG-IMC: An inductive matrix completion method enhanced by CKG and GNN for Alzheimer's disease compound-protein interactions prediction",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/e4e9749a692392d203834517647f682cbd3a42f6",
+        "volume": "177",
+        "year": "2024"
     },
     "f64f2c0ea4219c364082efa407fb77410ebd8886": {
         "abstract": "",
@@ -94,29 +118,5 @@ define({ entries : {
         "url": "https://www.semanticscholar.org/paper/f64f2c0ea4219c364082efa407fb77410ebd8886",
         "volume": "null",
         "year": "2021"
-    },
-    "f95b14cba00f995ee1c12444551d92cf43640263": {
-        "abstract": "",
-        "author": "Daokun Zhang and Jie Yin and Xingquan Zhu and Chengqi Zhang",
-        "doi": "10.1145/2983323.2983754",
-        "journal": "Proceedings of the 25th ACM International on Conference on Information and Knowledge Management",
-        "pages": "null",
-        "title": "Collective Classification via Discriminative Matrix Factorization on Sparsely Labeled Networks",
-        "type": "article",
-        "url": "https://www.semanticscholar.org/paper/f95b14cba00f995ee1c12444551d92cf43640263",
-        "volume": "null",
-        "year": "2016"
-    },
-    "fe76d87f8177f01c6c0382181eb1ce535f1971f2": {
-        "abstract": "",
-        "author": "Si Si and Kai-Yang Chiang and Cho-Jui Hsieh and Nikhil S. Rao and I. Dhillon",
-        "doi": "10.1145/2939672.2939809",
-        "journal": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
-        "pages": "null",
-        "title": "Goal-Directed Inductive Matrix Completion",
-        "type": "article",
-        "url": "https://www.semanticscholar.org/paper/fe76d87f8177f01c6c0382181eb1ce535f1971f2",
-        "volume": "null",
-        "year": "2016"
     }
 }});
